@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run task1": "nodemon task1.js",
+    "run task2": "nodemon task2.js",
+    "run task3": "nodemon task3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanyavanya/nodejs-basics.git"
+  },
+  "author": "alexander_ivanov6@epam.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanyavanya/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/sanyavanya/nodejs-basics#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
